@@ -20,8 +20,8 @@ This project is a Streamlit application that fetches and displays the NSE (Natio
 
 1. Clone the repository:
     ```bash
-    git clone 
-    cd 
+    git clone https://github.com/Bishwarup-Das/Option-Chain-Viewer.git
+    cd Option-Chain-Viewer
     ```
 
 2. Create a virtual environment:
