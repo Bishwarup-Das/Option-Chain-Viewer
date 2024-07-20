@@ -37,7 +37,7 @@ This project is a Streamlit application that fetches and displays the NSE (Natio
 
 4. Run the application:
     ```bash
-    streamlit run main.py
+    streamlit run option_chain_viewer.py
     ```
 
 ## Usage
